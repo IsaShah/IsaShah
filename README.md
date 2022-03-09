@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsaShah
+- 👋 Hi, I’m Isa!
 - 👀 I’m interested in learning how to program, and combine such skills with my mechanical engineering knowledge
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on any projects where an input from a mechanical engineer is required
